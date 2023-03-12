@@ -8,7 +8,7 @@ import "../App.css"
 export default function HomeMap () {
     
     const { isLoaded } = useLoadScript({
-        googleMapsApiKey: process.env.REACT_APP_GOOGLE_API_KEY!
+        googleMapsApiKey: "AIzaSyAsA4IgT6MCZEXqtXdF3HjXuk9DheJoV1o"
     });
     
     if (!isLoaded) return <div>Loading...</div>;

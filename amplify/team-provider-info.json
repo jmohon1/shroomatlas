@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shroomatlas-dev-140616-authRole",
+      "UnauthRoleArn": "arn:aws:iam::195523353767:role/amplify-shroomatlas-dev-140616-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::195523353767:role/amplify-shroomatlas-dev-140616-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-shroomatlas-dev-140616-deployment",
+      "UnauthRoleName": "amplify-shroomatlas-dev-140616-unauthRole",
+      "StackName": "amplify-shroomatlas-dev-140616",
+      "StackId": "arn:aws:cloudformation:us-east-1:195523353767:stack/amplify-shroomatlas-dev-140616/f8320440-c108-11ed-9c9c-0e84285e7fed",
+      "AmplifyAppId": "d2wx23ijoolnrv"
+    }
+  }
+}
